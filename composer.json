@@ -1,0 +1,14 @@
+{
+    "name": "overwatch/mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "overwatch"
+        }
+    ],
+    "require": {}
+}
